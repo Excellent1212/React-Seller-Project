@@ -24,23 +24,23 @@ It can be implemented in a store/shopping or another business that registers the
 * create mongo user 'db.createUser({ user: "reactseller", pwd: "password", roles: [ "readWrite", "dbAdmin" ] })'
 
 ### Run API
-* git clone https://github.com/kapit4n/react-seller.git
+* git clone https://github.com/Excellent1212/react-seller.git
 * cd react-seller/server
 * npm install
 * node .
 
 ## Install client
-* git clone https://github.com/kapit4n/react-seller.git
+* git clone https://github.com/Excellent1212/react-seller.git
 * cd react-seller/client
 * npm install
 * npm start
 
 ## Run Client Unit tests
 * go to client folder
-* ./node_modules/karma/bin/karma start
+* ./node_modules/Excellent1212/bin/karma start
 
 # Development tasks
-https://github.com/kapit4n/react-seller/projects/1
+https://github.com/Excellent1212/react-seller/projects/1
 
 # Util Commands
 ## Create new component
